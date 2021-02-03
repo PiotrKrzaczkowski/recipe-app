@@ -49,6 +49,9 @@ form input {
   border: none;
   display: inline-block;
 }
+form input:focus {
+  outline: none;
+}
 
 form ion-icon {
   width: 9%;
