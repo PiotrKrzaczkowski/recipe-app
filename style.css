@@ -92,7 +92,7 @@ form ion-icon {
 .view-button {
   text-decoration: none;
   text-align: center;
-  width: 130px;
+  min-width: 140px;
   align-self: flex-start;
   margin-top: 20px;
   padding: 10px 0;
